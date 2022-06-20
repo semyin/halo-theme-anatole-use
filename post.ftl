@@ -8,7 +8,7 @@
             <div class="post-page">
                 <div class="post animated fadeInDown">
                     <div class="post-title">
-                        <h3>
+                        <h3 class="post-title-large">
                             <a>${post.title}</a>
                         </h3>
                     </div>

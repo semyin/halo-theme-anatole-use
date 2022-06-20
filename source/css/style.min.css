@@ -296,6 +296,10 @@ a:hover, a:active {
     margin: 0;
 }
 
+.post .post-title h3.post-title-large {
+    font-size: 22px;
+}
+
 .post .post-title a {
     text-decoration: none;
     letter-spacing: 1px;

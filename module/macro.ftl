@@ -83,7 +83,7 @@
 <#macro footer>
 <footer class="my-footer">
   <div class="footer-bg">
-    <div>Copyright © 2022 <a href="https://semyin.com" target="_blank">semyin</a></div>
+    <div>Copyright © 2022 <a href="https://semyin.com" target="_blank">semyin</a> <a href="https://semyin.com/atom.xml" target="_blank">Rss订阅</a></div>
     <div>Powered by <a href="https://halo.run" target="_blank">Halo</a> Theme <a href="https://github.com/halo-dev/halo-theme-anatole">halo-theme-anatole</a></div>
   </div>
 </footer>
