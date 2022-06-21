@@ -240,7 +240,13 @@ mark {
 code, tt {
     white-space: pre-wrap;
     color: #d14;
-    border-radius: 2px;
+    border-radius: 4px;
+}
+
+code {
+    background-color: #fff5f5;
+    margin: 0 4px;
+    padding: 0 4px;
 }
 
 .toc {

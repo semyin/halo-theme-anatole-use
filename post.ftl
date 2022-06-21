@@ -1,6 +1,5 @@
 <#include "module/macro.ftl">
 <@head title="${post.title!} - ${blog_title!}"/>
-<#include "module/sidebar.ftl">
 <div class="main">
     <#include "module/page-top.ftl">
     <div class="autopagerize_page_element">
