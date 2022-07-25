@@ -224,10 +224,10 @@ code, tt {
     white-space: pre-wrap;
     color: #d14;
     border-radius: 2px;
-    padding: 1em !important;
 }
 
 code.hljs {
+    white-space: inherit;
     padding: 1em !important;
 }
 
